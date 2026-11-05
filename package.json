@@ -1,0 +1,13 @@
+
+{
+  "name": "unicar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plataforma de caronas universitárias com rateio inteligente de custos.",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "test": "echo \"Testes ainda não configurados\""
+  }
+}
