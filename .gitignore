@@ -147,3 +147,17 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# UniCar - Additional build outputs
+build/
+
+# Expo / React Native
+.expo/
+.expo-shared/
+
+# Local operating system files
+.DS_Store
+Thumbs.db
+
+# Local IDE configuration
+.idea/
